@@ -1,4 +1,4 @@
-module db.lib.go
+module github.com/BF-Moritz/db.lib.go
 
 go 1.19
 
